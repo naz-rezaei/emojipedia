@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# OS-generated files (such as .DS_Store for macOS)
+.DS_Store
+
+# npm package lock files (optional, sometimes you want to include these)
+package-lock.json
+
+# Coverage folder (if you're using code coverage tools)
+coverage/
